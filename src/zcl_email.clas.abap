@@ -1,5 +1,5 @@
 "! <p class="shorttext synchronized" lang="en">Email</p>
-class ZCL_EMAIL definition
+class ZCL_EMAIL_TEMPLATE definition
   public
   inheriting from CL_BCS_MESSAGE
   final
